@@ -1,5 +1,7 @@
 # Polynomial Regression
 
+![demo gif](./demo.gif)
+
 ## Live Demo
 
 [Click here](https://panzer.github.io/polynomial-regression/) to play around with it on your own!
